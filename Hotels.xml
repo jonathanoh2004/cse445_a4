@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  <Hotel Rating="4.5">
+    <Name>Fontainebleau Miami Beach</Name>
+    <Phone>305-538-2000</Phone>
+    <Phone>800-548-8886</Phone>
+    <Address NearstAirport="Miami International Airport">
+      <Number>4441</Number>
+      <Street>Collins Ave</Street>
+      <City>Miami Beach</City>
+      <State>FL</State>
+      <Zip>33140</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Loews Miami Beach Hotel</Name>
+    <Phone>305-604-1601</Phone>
+    <Address NearstAirport="Miami International Airport">
+      <Number>1601</Number>
+      <Street>Collins Ave</Street>
+      <City>Miami Beach</City>
+      <State>FL</State>
+      <Zip>33139</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3">
+    <Name>JW Marriott Orlando Grande Lakes</Name>
+    <Phone>407-206-2300</Phone>
+    <Phone>888-789-3090</Phone>
+    <Address NearstAirport="Orlando International Airport">
+      <Number>4040</Number>
+      <Street>Central Florida Pkwy</Street>
+      <City>Orlando</City>
+      <State>FL</State>
+      <Zip>32837</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.0">
+    <Name>The Ritz-Carlton Naples</Name>
+    <Phone>239-598-3300</Phone>
+    <Address NearstAirport="Southwest Florida International">
+      <Number>280</Number>
+      <Street>Vanderbilt Beach Rd</Street>
+      <City>Naples</City>
+      <State>FL</State>
+      <Zip>34108</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>W Miami</Name>
+    <Phone>305-503-4400</Phone>
+    <Address NearstAirport="Miami International Airport">
+      <Number>485</Number>
+      <Street>Brickell Ave</Street>
+      <City>Miami</City>
+      <State>FL</State>
+      <Zip>33131</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.2">
+    <Name>Hilton Orlando</Name>
+    <Phone>407-313-4300</Phone>
+    <Address NearstAirport="Orlando International Airport">
+      <Number>6001</Number>
+      <Street>Destination Pkwy</Street>
+      <City>Orlando</City>
+      <State>FL</State>
+      <Zip>32819</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Kimpton Hotel Zamora</Name>
+    <Phone>727-456-8900</Phone>
+    <Phone>877-234-8870</Phone>
+    <Address NearstAirport="Tampa International Airport">
+      <Number>3701</Number>
+      <Street>Gulf Blvd</Street>
+      <City>St. Pete Beach</City>
+      <State>FL</State>
+      <Zip>33706</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.9">
+    <Name>Hyatt Regency Sarasota</Name>
+    <Phone>941-953-1234</Phone>
+    <Address NearstAirport="Sarasota-Bradenton International">
+      <Number>1000</Number>
+      <Street>Blvd of the Arts</Street>
+      <City>Sarasota</City>
+      <State>FL</State>
+      <Zip>34236</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Holiday Inn Key Largo</Name>
+    <Phone>305-451-2121</Phone>
+    <Address NearstAirport="Miami International Airport">
+      <Number>99701</Number>
+      <Street>Overseas Hwy</Street>
+      <City>Key Largo</City>
+      <State>FL</State>
+      <Zip>33037</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.4">
+    <Name>The Breakers Palm Beach</Name>
+    <Phone>561-655-6611</Phone>
+    <Address NearstAirport="Palm Beach International">
+      <Number>1</Number>
+      <Street>S County Rd</Street>
+      <City>Palm Beach</City>
+      <State>FL</State>
+      <Zip>33480</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
